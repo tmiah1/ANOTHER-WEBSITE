@@ -16,7 +16,7 @@ function showUserPosts(id) {
 }
 
 functionuserHTMl(user) {
-    return 
+    return  now
     `<div class="user-card" onclick="showUserPosts({})></div>
     <div class="user-card">
         <div class="user-card__container">
